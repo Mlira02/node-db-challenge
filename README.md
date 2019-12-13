@@ -40,11 +40,19 @@ Demonstrate your understanding of this week's concepts by answering the followin
 
 - [ ] Explain the difference between `Relational Databases` and `SQL`.
 
+Answer: I think the biggest difference between SQL and a database is that SQL is a language which is used to build databases. A relational database is a type of database that SQL can create.
+
 - [ ] Why do tables need a `primary key`?
+
+Answer: A primary key is used to differentiate every creations of that table, it is also very useful to call upon a certain table by searching for the primary key of the table. And lastly, it can be used to connect one or more tables together. 
 
 - [ ] What is the name given to a table column that references the primary key on another table.
 
+Answer: Foreign Key
+
 - [ ] What do we need in order to have a _many to many_ relationship between two tables.
+
+Answer: An intermediary table is something that is necessary to call upon multiple tables to create a many to many relationship. This is used by calling upon multiple primary keys of two or more tables.
 
 ## Minimum Viable Product
 
